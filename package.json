@@ -1,0 +1,20 @@
+{
+  "name": "instaqchallenge",
+  "version": "1.0.0",
+  "description": "Um projeto backend focado na execução do desafio proposto pela instaQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "graphql": "^16.9.0"
+  }
+}
